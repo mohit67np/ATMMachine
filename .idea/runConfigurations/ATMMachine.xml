@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ATMMachine" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="ATMMachine" />
+    <module name="ATMMachine" />
+    <option name="VM_PARAMETERS" value="--enable-preview$MAVEN_REPOSITORY$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
